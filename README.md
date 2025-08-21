@@ -1,10 +1,10 @@
+
+## Google Map Implemenations
+
 <br>
 <p align="center">
     <img src="public/map.svg">
 </p>
-
-
-## Google Map Implemenations
 
 
 - Add marker
